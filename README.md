@@ -1,5 +1,5 @@
-# Address Book
-## Address Book built with React Native.
+# MyActivityHistory
+## MyActivityHistoryApp built with React Native.
 
 ![IMG_0991-min](https://user-images.githubusercontent.com/51968635/165450260-d25646a8-15c1-43d8-a84c-c50a6f25d054.gif)
 
